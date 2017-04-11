@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">The Royal Teas</string>
+    <string name="button_checkmenu">Check out our menu !</string>
+    <string name="description">Everything is vegetarian ranging from soups to American style breakfasts, with homemade cakes to die for!</string>
+    <string name="description_address">76 Royal Hill, London SE10 8RT</string>
+    <string name="description_telephone">+44 (0) 208 691 7240</string>
+    <string name="description_website">www.royalteascafe.co.uk</string>
+    <string name="description_hours">Mon - Sat, 09.30 - 17.30</string>
+</resources>
