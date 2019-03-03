@@ -1,12 +1,14 @@
-ABND | Build a Single Screen App
+# ABND | Build a Single Screen App
 
-This is the first part of the Android Basics Nanodegree program offered by Udacity in collaborating with Google. The nanodegree consists of 10 projects plus a Capstone.
-Project Description:
+This is the first part of the Android Basics Nanodegree program offered by Udacity in collaborating with Google.
+
+
+# Project Description:
 Design and implement a simple app that displays information about a small business.
  
- 
 
-Learning outcomes:
+# Learning outcomes:
+
 •	Setup Android Studio
 •	Understand basic app structure
 •	Identify and apprecite the difference between different view types
