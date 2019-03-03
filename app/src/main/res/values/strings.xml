@@ -6,4 +6,9 @@
     <string name="description_telephone">+44 (0) 208 691 7240</string>
     <string name="description_website">www.royalteascafe.co.uk</string>
     <string name="description_hours">Mon - Sat, 09.30 - 17.30</string>
+    <string name="image_place">Image Place</string>
+    <string name="icon_place">Icon Place</string>
+    <string name="icon_phone">Icon Phone</string>
+    <string name="icon_website">Icon Website</string>
+    <string name="icon_open">Icon Open</string>
 </resources>

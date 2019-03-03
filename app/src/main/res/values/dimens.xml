@@ -7,5 +7,13 @@
     <dimen name="description_layoutmarginbottom">20dp</dimen>
     <dimen name="titletext_paddingbottom">20dp</dimen>
     <dimen name="titletext_paddingtop">10dp</dimen>
-    <dimen name="titletext_textsize">40sp</dimen>
+    <dimen name="titletext_textsize">48sp</dimen>
+    <dimen name="button_textSize">24sp</dimen>
+    <dimen name="info_text">16sp</dimen>
+    <dimen name="icon_width">32dp</dimen>
+    <dimen name="icon_height">32dp</dimen>
+    <dimen name="icon_margin_left">8dp</dimen>
+    <dimen name="icon_margin_top">20dp</dimen>
+    <dimen name="text_margin_top">28dp</dimen>
+    <dimen name="text_margin_left">24dp</dimen>
 </resources>

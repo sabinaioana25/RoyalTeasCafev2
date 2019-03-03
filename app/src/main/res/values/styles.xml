@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
 
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
@@ -13,7 +13,7 @@
         <item name="android:textStyle">bold</item>
         <item name="android:gravity">center</item>
         <item name="android:textSize">@dimen/titletext_textsize</item>
-        <item name="android:fontFamily">cursive</item>
+        <item name="android:fontFamily" tools:targetApi="jelly_bean">cursive</item>
         <item name="android:textColor">@android:color/white</item>
         <item name="android:background">@color/colorPrimary</item>
         <item name="android:layout_width">fill_parent</item>
@@ -28,7 +28,7 @@
     </style>
 
     <style name="button_menu">
-        <item name="android:textSize">20dp</item>
+        <item name="android:textSize">@dimen/button_textSize</item>
         <item name="android:textColor">@android:color/white</item>
         <item name="android:background">@color/colorPrimary</item>
     </style>
@@ -37,18 +37,17 @@
         <item name="android:textStyle">italic</item>
         <item name="android:layout_width">match_parent</item>
         <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">18sp</item>
         <item name="android:background">@color/colorPrimaryDark</item>
-        <item name="android:fontFamily">sans-serif"</item>
+        <item name="android:fontFamily" tools:targetApi="jelly_bean">sans-serif"</item>
         <item name="android:paddingTop">@dimen/description_textpaddingtop</item>
         <item name="android:paddingBottom">@dimen/description_textpaddingbottom</item>
-        <item name="android:layout_marginBottom">@dimen/description_layoutmarginbottom</item>
         <item name="android:gravity">center_horizontal</item>
     </style>
 
     <style name="description_line_text">
-        <item name="android:textSize">15dp</item>
+        <item name="android:textSize">18sp</item>
         <item name="android:textColor">@color/colorPrimaryDark</item>
-
         <item name="android:gravity">center_vertical</item>
 
     </style>
