@@ -3,7 +3,7 @@
 This is the first part of the Android Basics Nanodegree program offered by Udacity in collaborating with Google.
 
 
-# Project Description:
+# Project Description
 Design and implement a simple app that displays information about a small business.
  
 ![](app_screenshot.png)
