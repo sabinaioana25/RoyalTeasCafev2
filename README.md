@@ -6,7 +6,6 @@ This is the first part of the Android Basics Nanodegree program offered by Udaci
 # Project Description:
 Design and implement a simple app that displays information about a small business.
  
-
 # Learning outcomes:
 
 •	Setup Android Studio
