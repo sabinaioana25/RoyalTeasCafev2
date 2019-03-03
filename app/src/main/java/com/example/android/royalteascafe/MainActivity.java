@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        TextView see_address = (TextView) findViewById(R.id.address);
+        TextView see_address = findViewById(R.id.address);
         see_address.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        TextView call_number = (TextView) findViewById(R.id.phone);
+        TextView call_number = findViewById(R.id.phone);
         call_number.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        TextView visit_site = (TextView) findViewById(R.id.website);
+        TextView visit_site = findViewById(R.id.website);
         visit_site.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        Button view_menu = (Button) findViewById(R.id.button);
+        Button view_menu = findViewById(R.id.button);
         view_menu.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
