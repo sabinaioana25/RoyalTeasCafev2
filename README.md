@@ -2,11 +2,10 @@
 
 This is the first part of the Android Basics Nanodegree program offered by Udacity in collaborating with Google.
 
-
 # Project Description
 Design and implement a simple app that displays information about a small business.
  
-![](app_screenshot.png)
+![](MainScreen_framed.png)
 
 # Pre-requisites
 - Android SDK v22
